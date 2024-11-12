@@ -5,7 +5,7 @@ Versão portátil do jogo educacional, feito no GDevelop.
 Jogo separado do conteúdo SCORM.
 
 ## 🚀 Jogue
-[Jogue ATE Adventures aqui](https://ate-adventure.github.io/jogo/ATEAdventures)
+[Jogue ATE Adventures aqui](https://sesi-nead-2024.github.io/ate-adventures-game/)
 
 ## 📟 Tecnologias
 - GDevelop
