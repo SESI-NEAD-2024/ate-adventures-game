@@ -1,9 +1,9 @@
 {
   "firstLayout": "Level_1",
   "gdVersion": {
-    "build": 218,
+    "build": 221,
     "major": 5,
-    "minor": 4,
+    "minor": 5,
     "revision": 0
   },
   "properties": {
@@ -25,7 +25,7 @@
     "author": "ATE Adventures",
     "windowWidth": 1280,
     "windowHeight": 768,
-    "latestCompilationDirectory": "C:\\kelvin-code\\ATE [backed up]\\Jogo\\docs",
+    "latestCompilationDirectory": "C:\\kelvin-code\\ate-adventures-fase05\\src\\GDevelop",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -113,7 +113,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite-1-0.png",
         "kind": "image",
         "metadata": "",
@@ -132,7 +131,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Player_Mask_Sprite-1-0.png",
         "kind": "image",
         "metadata": "",
@@ -141,7 +139,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Right arrow round button.png",
         "kind": "image",
         "metadata": "",
@@ -154,7 +151,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Left arrow round button.png",
         "kind": "image",
         "metadata": "",
@@ -167,7 +163,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Top arrow button.png",
         "kind": "image",
         "metadata": "",
@@ -180,7 +175,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Platform_Stone2.png",
         "kind": "image",
         "metadata": "",
@@ -189,7 +183,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run1.png",
         "kind": "image",
         "metadata": "",
@@ -198,7 +191,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run2.png",
         "kind": "image",
         "metadata": "",
@@ -207,7 +199,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run3.png",
         "kind": "image",
         "metadata": "",
@@ -216,7 +207,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run4.png",
         "kind": "image",
         "metadata": "",
@@ -225,7 +215,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run5.png",
         "kind": "image",
         "metadata": "",
@@ -234,7 +223,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run6.png",
         "kind": "image",
         "metadata": "",
@@ -243,7 +231,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run7.png",
         "kind": "image",
         "metadata": "",
@@ -252,7 +239,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run8.png",
         "kind": "image",
         "metadata": "",
@@ -261,7 +247,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run9.png",
         "kind": "image",
         "metadata": "",
@@ -270,7 +255,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run10.png",
         "kind": "image",
         "metadata": "",
@@ -279,7 +263,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run11.png",
         "kind": "image",
         "metadata": "",
@@ -288,7 +271,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run12.png",
         "kind": "image",
         "metadata": "",
@@ -297,7 +279,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run13.png",
         "kind": "image",
         "metadata": "",
@@ -306,7 +287,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run14.png",
         "kind": "image",
         "metadata": "",
@@ -315,7 +295,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run15.png",
         "kind": "image",
         "metadata": "",
@@ -324,7 +303,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Run16.png",
         "kind": "image",
         "metadata": "",
@@ -333,7 +311,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Idle1.png",
         "kind": "image",
         "metadata": "",
@@ -342,7 +319,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Idle2.png",
         "kind": "image",
         "metadata": "",
@@ -351,7 +327,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Idle3.png",
         "kind": "image",
         "metadata": "",
@@ -360,7 +335,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knight-Idle4.png",
         "kind": "image",
         "metadata": "",
@@ -369,7 +343,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Platform_Stone1.png",
         "kind": "image",
         "metadata": "",
@@ -378,7 +351,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Fire1.png",
         "kind": "image",
         "metadata": "",
@@ -387,7 +359,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Fire2.png",
         "kind": "image",
         "metadata": "",
@@ -396,7 +367,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Fire3.png",
         "kind": "image",
         "metadata": "",
@@ -405,7 +375,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Fire4.png",
         "kind": "image",
         "metadata": "",
@@ -414,7 +383,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -423,7 +391,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": true,
         "file": "assets/Floor_Grass.webp",
         "kind": "image",
         "metadata": "",
@@ -436,7 +403,6 @@
         }
       },
       {
-        "alwaysLoaded": true,
         "file": "assets/TILE_SAVIO-03.png",
         "kind": "image",
         "metadata": "",
@@ -449,7 +415,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Male Character 1_Walking Right_1.png",
         "kind": "image",
         "metadata": "",
@@ -462,7 +427,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Male Character 1_Walking Right_2.png",
         "kind": "image",
         "metadata": "",
@@ -475,7 +439,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Male Character 1_Walking Right_3.png",
         "kind": "image",
         "metadata": "",
@@ -488,7 +451,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Male Character 1_Walking Down_1.png",
         "kind": "image",
         "metadata": "",
@@ -501,7 +463,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Rectangle 102.png",
         "kind": "image",
         "metadata": "",
@@ -547,8 +508,7 @@
         }
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/btn_Hover.png",
+        "file": "btn_Hover.png",
         "kind": "image",
         "metadata": "",
         "name": "btn_Hover.png",
@@ -556,8 +516,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/btn.png",
+        "file": "btn.png",
         "kind": "image",
         "metadata": "",
         "name": "btn.png",
@@ -565,8 +524,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/alternativa4.png",
+        "file": "alternativa4.png",
         "kind": "image",
         "metadata": "",
         "name": "alternativa4.png",
@@ -574,8 +532,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/alternativaHover3.png",
+        "file": "alternativaHover3.png",
         "kind": "image",
         "metadata": "",
         "name": "alternativaHover3.png",
@@ -583,8 +540,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/alternativaEscolhida3.png",
+        "file": "alternativaEscolhida3.png",
         "kind": "image",
         "metadata": "",
         "name": "alternativaEscolhida3.png",
@@ -592,8 +548,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/perguntaTrigger.png",
+        "file": "perguntaTrigger.png",
         "kind": "image",
         "metadata": "",
         "name": "perguntaTrigger.png",
@@ -601,8 +556,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Sky_Pixel.png",
+        "file": "Sky_Pixel.png",
         "kind": "image",
         "metadata": "",
         "name": "Sky_Pixel.png",
@@ -610,7 +564,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat Heart Empty.png",
         "kind": "image",
         "metadata": "",
@@ -623,8 +576,7 @@
         }
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Door_closed2.png",
+        "file": "Door_closed2.png",
         "kind": "image",
         "metadata": "",
         "name": "Door_closed2.png",
@@ -632,8 +584,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Door_open2.png",
+        "file": "Door_open2.png",
         "kind": "image",
         "metadata": "",
         "name": "Door_open2.png",
@@ -641,8 +592,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Heart_on.png",
+        "file": "Heart_on.png",
         "kind": "image",
         "metadata": "",
         "name": "Heart_on.png",
@@ -650,8 +600,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Heart_off.png",
+        "file": "Heart_off.png",
         "kind": "image",
         "metadata": "",
         "name": "Heart_off.png",
@@ -659,8 +608,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Buildings_Bg.png",
+        "file": "Buildings_Bg.png",
         "kind": "image",
         "metadata": "",
         "name": "Buildings_Bg.png",
@@ -668,8 +616,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Buildings_Fg.png",
+        "file": "Buildings_Fg.png",
         "kind": "image",
         "metadata": "",
         "name": "Buildings_Fg.png",
@@ -677,8 +624,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Sky-04.png",
+        "file": "Sky-04.png",
         "kind": "image",
         "metadata": "",
         "name": "Sky-04.png",
@@ -686,8 +632,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/alternativaCorrect.png",
+        "file": "alternativaCorrect.png",
         "kind": "image",
         "metadata": "",
         "name": "alternativaCorrect.png",
@@ -695,8 +640,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/alternativaError.png",
+        "file": "alternativaError.png",
         "kind": "image",
         "metadata": "",
         "name": "alternativaError.png",
@@ -704,8 +648,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/box-02.png",
+        "file": "box-02.png",
         "kind": "image",
         "metadata": "",
         "name": "box-02.png",
@@ -713,7 +656,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -722,7 +664,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -731,7 +672,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -740,7 +680,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -749,7 +688,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -758,7 +696,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -767,8 +704,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/key_bar_off.png",
+        "file": "key_bar_off.png",
         "kind": "image",
         "metadata": "",
         "name": "key_bar_off.png",
@@ -776,8 +712,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/key_bar_on.png",
+        "file": "key_bar_on.png",
         "kind": "image",
         "metadata": "",
         "name": "key_bar_on.png",
@@ -785,8 +720,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/big_key_off.png",
+        "file": "big_key_off.png",
         "kind": "image",
         "metadata": "",
         "name": "big_key_off.png",
@@ -794,8 +728,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/key_big.png",
+        "file": "key_big.png",
         "kind": "image",
         "metadata": "",
         "name": "key_big.png",
@@ -803,8 +736,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/big_key_blink.png",
+        "file": "big_key_blink.png",
         "kind": "image",
         "metadata": "",
         "name": "big_key_blink.png",
@@ -826,8 +758,7 @@
         }
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/key_bar_points_fill2.png",
+        "file": "key_bar_points_fill2.png",
         "kind": "image",
         "metadata": "",
         "name": "key_bar_points_fill2.png",
@@ -835,8 +766,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/key_bar_points_fill3.png",
+        "file": "key_bar_points_fill3.png",
         "kind": "image",
         "metadata": "",
         "name": "key_bar_points_fill3.png",
@@ -868,7 +798,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Female Character 9_Walking Down_1.png",
         "kind": "image",
         "metadata": "",
@@ -881,7 +810,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Female Character 9_Walking Right_1.png",
         "kind": "image",
         "metadata": "",
@@ -894,7 +822,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Female Character 9_Walking Right_2.png",
         "kind": "image",
         "metadata": "",
@@ -907,7 +834,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Female Character 9_Walking Right_3.png",
         "kind": "image",
         "metadata": "",
@@ -920,7 +846,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Female Character 6_Walking Down_1.png",
         "kind": "image",
         "metadata": "",
@@ -933,7 +858,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Female Character 6_Walking Right_1.png",
         "kind": "image",
         "metadata": "",
@@ -946,7 +870,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Female Character 6_Walking Right_2.png",
         "kind": "image",
         "metadata": "",
@@ -959,7 +882,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Female Character 6_Walking Right_3.png",
         "kind": "image",
         "metadata": "",
@@ -972,7 +894,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Male Character 5_Walking Down_1.png",
         "kind": "image",
         "metadata": "",
@@ -985,7 +906,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Male Character 5_Walking Right_1.png",
         "kind": "image",
         "metadata": "",
@@ -998,7 +918,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Male Character 5_Walking Right_2.png",
         "kind": "image",
         "metadata": "",
@@ -1011,7 +930,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Male Character 5_Walking Right_3.png",
         "kind": "image",
         "metadata": "",
@@ -1024,8 +942,7 @@
         }
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/bem_vindo.png",
+        "file": "bem_vindo.png",
         "kind": "image",
         "metadata": "",
         "name": "bem_vindo.png",
@@ -1033,8 +950,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Fase_01.png",
+        "file": "Fase_01.png",
         "kind": "image",
         "metadata": "",
         "name": "Fase_01.png",
@@ -1066,8 +982,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/key_bar_points3.png",
+        "file": "key_bar_points3.png",
         "kind": "image",
         "metadata": "",
         "name": "key_bar_points3.png",
@@ -1075,8 +990,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/controles.png",
+        "file": "controles.png",
         "kind": "image",
         "metadata": "",
         "name": "controles.png",
@@ -1084,8 +998,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Loading_screen.png",
+        "file": "Loading_screen.png",
         "kind": "image",
         "metadata": "",
         "name": "Loading_screen.png",
@@ -1093,8 +1006,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Thumb_1.png",
+        "file": "Thumb_1.png",
         "kind": "image",
         "metadata": "",
         "name": "Thumb_1.png",
@@ -1102,7 +1014,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/desktop-icon-512.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/desktop-icon-512.png\"}",
@@ -1111,7 +1022,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/android-icon-192.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-192.png\"}",
@@ -1120,7 +1030,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/android-icon-144.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-144.png\"}",
@@ -1129,7 +1038,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/android-icon-96.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-96.png\"}",
@@ -1138,7 +1046,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/android-icon-72.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-72.png\"}",
@@ -1147,7 +1054,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/android-icon-48.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-48.png\"}",
@@ -1156,7 +1062,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/android-icon-36.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-36.png\"}",
@@ -1165,7 +1070,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/android-windowSplashScreenAnimatedIcon.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-windowSplashScreenAnimatedIcon.png\"}",
@@ -1174,7 +1078,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-1024.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-1024.png\"}",
@@ -1183,7 +1086,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-180.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-180.png\"}",
@@ -1192,7 +1094,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-167.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-167.png\"}",
@@ -1201,7 +1102,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-152.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-152.png\"}",
@@ -1210,7 +1110,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-144.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-144.png\"}",
@@ -1219,7 +1118,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-120.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-120.png\"}",
@@ -1228,7 +1126,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-114.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-114.png\"}",
@@ -1237,7 +1134,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-100.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-100.png\"}",
@@ -1246,7 +1142,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-87.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-87.png\"}",
@@ -1255,7 +1150,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-80.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-80.png\"}",
@@ -1264,7 +1158,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-76.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-76.png\"}",
@@ -1273,7 +1166,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-72.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-72.png\"}",
@@ -1282,7 +1174,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-60.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-60.png\"}",
@@ -1291,7 +1182,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-58.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-58.png\"}",
@@ -1300,7 +1190,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-57.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-57.png\"}",
@@ -1309,7 +1198,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-50.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-50.png\"}",
@@ -1318,7 +1206,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-40.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-40.png\"}",
@@ -1327,7 +1214,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-29.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-29.png\"}",
@@ -1336,7 +1222,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ios-icon-20.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-20.png\"}",
@@ -1345,8 +1230,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Fase_02.png",
+        "file": "Fase_02.png",
         "kind": "image",
         "metadata": "",
         "name": "Fase_02.png",
@@ -1354,7 +1238,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Male Character 9_Walking Down_1.png",
         "kind": "image",
         "metadata": "",
@@ -1367,7 +1250,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Male Character 10_Walking Down_1.png",
         "kind": "image",
         "metadata": "",
@@ -1380,7 +1262,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Very Happy Emote.png",
         "kind": "image",
         "metadata": "",
@@ -1393,7 +1274,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Worried Emote.png",
         "kind": "image",
         "metadata": "",
@@ -1406,7 +1286,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Confused Emote.png",
         "kind": "image",
         "metadata": "",
@@ -1419,8 +1298,7 @@
         }
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/lapis.png",
+        "file": "lapis.png",
         "kind": "image",
         "metadata": "",
         "name": "lapis.png",
@@ -1428,8 +1306,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Ocolus_Vr.png",
+        "file": "Ocolus_Vr.png",
         "kind": "image",
         "metadata": "",
         "name": "Ocolus_Vr.png",
@@ -1437,15 +1314,14 @@
         "userAdded": true
       },
       {
-        "file": "assets/LoRes9PlusOT.otf",
+        "file": "LoRes9PlusOT.otf",
         "kind": "font",
         "metadata": "",
         "name": "LoRes9PlusOT.otf",
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Floor_Grass_Night.png",
+        "file": "Floor_Grass_Night.png",
         "kind": "image",
         "metadata": "",
         "name": "Floor_Grass_Night.png",
@@ -1453,8 +1329,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Floor_Night.png",
+        "file": "Floor_Night.png",
         "kind": "image",
         "metadata": "",
         "name": "Floor_Night.png",
@@ -1462,8 +1337,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Ativo 20.png",
+        "file": "Ativo 20.png",
         "kind": "image",
         "metadata": "",
         "name": "Ativo 20.png",
@@ -1471,8 +1345,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Ativo 21.png",
+        "file": "Ativo 21.png",
         "kind": "image",
         "metadata": "",
         "name": "Ativo 21.png",
@@ -1480,8 +1353,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Sky_Night.png",
+        "file": "Sky_Night.png",
         "kind": "image",
         "metadata": "",
         "name": "Sky_Night.png",
@@ -1489,8 +1361,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Bush_Night.png",
+        "file": "Bush_Night.png",
         "kind": "image",
         "metadata": "",
         "name": "Bush_Night.png",
@@ -1498,8 +1369,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Arbusto_P_Noite.png",
+        "file": "Arbusto_P_Noite.png",
         "kind": "image",
         "metadata": "",
         "name": "Arbusto_P_Noite.png",
@@ -1507,8 +1377,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Bush.png",
+        "file": "Bush.png",
         "kind": "image",
         "metadata": "",
         "name": "Bush.png",
@@ -1516,8 +1385,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Arbusto_P.png",
+        "file": "Arbusto_P.png",
         "kind": "image",
         "metadata": "",
         "name": "Arbusto_P.png",
@@ -1525,8 +1393,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/key_bar_points_fill_lv2.png",
+        "file": "key_bar_points_fill_lv2.png",
         "kind": "image",
         "metadata": "",
         "name": "key_bar_points_fill_lv2.png",
@@ -1534,8 +1401,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/key_bar_points_lv2.png",
+        "file": "key_bar_points_lv2.png",
         "kind": "image",
         "metadata": "",
         "name": "key_bar_points_lv2.png",
@@ -1543,8 +1409,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Floor_Grass_Night2.png",
+        "file": "Floor_Grass_Night2.png",
         "kind": "image",
         "metadata": "",
         "name": "Floor_Grass_Night2.png",
@@ -1552,8 +1417,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Floor_Night2.png",
+        "file": "Floor_Night2.png",
         "kind": "image",
         "metadata": "",
         "name": "Floor_Night2.png",
@@ -1561,8 +1425,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Fase_03.png",
+        "file": "Fase_03.png",
         "kind": "image",
         "metadata": "",
         "name": "Fase_03.png",
@@ -1570,8 +1433,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/die.png",
+        "file": "die.png",
         "kind": "image",
         "metadata": "",
         "name": "die.png",
@@ -1579,7 +1441,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Female Character 5_Walking Down_1.png",
         "kind": "image",
         "metadata": "",
@@ -1592,7 +1453,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Female Character 8_Walking Down_1.png",
         "kind": "image",
         "metadata": "",
@@ -1605,7 +1465,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Male Character 12_Walking Down_1.png",
         "kind": "image",
         "metadata": "",
@@ -1618,8 +1477,7 @@
         }
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/book-sesitec.png",
+        "file": "book-sesitec.png",
         "kind": "image",
         "metadata": "",
         "name": "book-sesitec.png",
@@ -1627,8 +1485,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/tablet-1.png",
+        "file": "tablet-1.png",
         "kind": "image",
         "metadata": "",
         "name": "tablet-1.png",
@@ -1636,8 +1493,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/tablet-3.png",
+        "file": "tablet-3.png",
         "kind": "image",
         "metadata": "",
         "name": "tablet-3.png",
@@ -1645,8 +1501,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/tablet-2.png",
+        "file": "tablet-2.png",
         "kind": "image",
         "metadata": "",
         "name": "tablet-2.png",
@@ -1654,8 +1509,7 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/charge.png",
+        "file": "charge.png",
         "kind": "image",
         "metadata": "",
         "name": "charge.png",
@@ -1677,7 +1531,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bright Sparkle_1.png",
         "kind": "image",
         "metadata": "",
@@ -1690,7 +1543,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bright Sparkle_2.png",
         "kind": "image",
         "metadata": "",
@@ -1703,7 +1555,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bright Sparkle_3.png",
         "kind": "image",
         "metadata": "",
@@ -1716,7 +1567,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bright Sparkle_4.png",
         "kind": "image",
         "metadata": "",
@@ -1729,7 +1579,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bright Sparkle_5.png",
         "kind": "image",
         "metadata": "",
@@ -1742,7 +1591,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Magic Sparkle Trail_1.png",
         "kind": "image",
         "metadata": "",
@@ -1755,7 +1603,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Magic Sparkle Trail_2.png",
         "kind": "image",
         "metadata": "",
@@ -1768,7 +1615,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Magic Sparkle Trail_3.png",
         "kind": "image",
         "metadata": "",
@@ -1781,7 +1627,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Magic Sparkle Trail_4.png",
         "kind": "image",
         "metadata": "",
@@ -1794,7 +1639,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sparkles_1.png",
         "kind": "image",
         "metadata": "",
@@ -1807,7 +1651,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sparkles_2.png",
         "kind": "image",
         "metadata": "",
@@ -1820,7 +1663,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sparkles_3.png",
         "kind": "image",
         "metadata": "",
@@ -1833,7 +1675,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sparkles_4.png",
         "kind": "image",
         "metadata": "",
@@ -1846,7 +1687,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Yellow Sparkle_1.png",
         "kind": "image",
         "metadata": "",
@@ -1859,7 +1699,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Yellow Sparkle_2.png",
         "kind": "image",
         "metadata": "",
@@ -1872,7 +1711,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Yellow Sparkle_3.png",
         "kind": "image",
         "metadata": "",
@@ -1885,7 +1723,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Yellow Sparkle_4.png",
         "kind": "image",
         "metadata": "",
@@ -1898,7 +1735,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Yellow Sparkle_5.png",
         "kind": "image",
         "metadata": "",
@@ -1911,8 +1747,7 @@
         }
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Kahhot.png",
+        "file": "Kahhot.png",
         "kind": "image",
         "metadata": "",
         "name": "Kahhot.png",
@@ -1920,8 +1755,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/key_bar_4_points.png",
+        "file": "key_bar_4_points.png",
         "kind": "image",
         "metadata": "",
         "name": "key_bar_4_points.png",
@@ -1929,8 +1763,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/key_bar_4_points_fill.png",
+        "file": "key_bar_4_points_fill.png",
         "kind": "image",
         "metadata": "",
         "name": "key_bar_4_points_fill.png",
@@ -1938,8 +1771,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/kelvin-costa-boards-temple-1.jpg",
+        "file": "kelvin-costa-boards-temple-1.jpg",
         "kind": "image",
         "metadata": "",
         "name": "kelvin-costa-boards-temple-1.jpg",
@@ -1947,8 +1779,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/raio.png",
+        "file": "raio.png",
         "kind": "image",
         "metadata": "",
         "name": "raio.png",
@@ -1956,7 +1787,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_10.png",
         "kind": "image",
         "metadata": "",
@@ -1969,7 +1799,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_12.png",
         "kind": "image",
         "metadata": "",
@@ -1982,7 +1811,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_14.png",
         "kind": "image",
         "metadata": "",
@@ -1995,7 +1823,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_16.png",
         "kind": "image",
         "metadata": "",
@@ -2008,7 +1835,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_18.png",
         "kind": "image",
         "metadata": "",
@@ -2021,7 +1847,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_20.png",
         "kind": "image",
         "metadata": "",
@@ -2034,7 +1859,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_21.png",
         "kind": "image",
         "metadata": "",
@@ -2047,7 +1871,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_23.png",
         "kind": "image",
         "metadata": "",
@@ -2060,7 +1883,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_25.png",
         "kind": "image",
         "metadata": "",
@@ -2073,7 +1895,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_27.png",
         "kind": "image",
         "metadata": "",
@@ -2086,7 +1907,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_29.png",
         "kind": "image",
         "metadata": "",
@@ -2099,7 +1919,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_3.png",
         "kind": "image",
         "metadata": "",
@@ -2112,7 +1931,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_31.png",
         "kind": "image",
         "metadata": "",
@@ -2125,7 +1943,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_4.png",
         "kind": "image",
         "metadata": "",
@@ -2138,7 +1955,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_6.png",
         "kind": "image",
         "metadata": "",
@@ -2151,7 +1967,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_8.png",
         "kind": "image",
         "metadata": "",
@@ -2164,7 +1979,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Weapon hit_9.png",
         "kind": "image",
         "metadata": "",
@@ -2177,8 +1991,7 @@
         }
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Door_Key.png",
+        "file": "Door_Key.png",
         "kind": "image",
         "metadata": "",
         "name": "Door_Key.png",
@@ -2186,8 +1999,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Bg_Buildings_conclusao.png",
+        "file": "Bg_Buildings_conclusao.png",
         "kind": "image",
         "metadata": "",
         "name": "Bg_Buildings_conclusao.png",
@@ -2195,8 +2007,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Mensagem_Conclusao.png",
+        "file": "Mensagem_Conclusao.png",
         "kind": "image",
         "metadata": "",
         "name": "Mensagem_Conclusao.png",
@@ -2204,8 +2015,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Night_Tree.png",
+        "file": "Night_Tree.png",
         "kind": "image",
         "metadata": "",
         "name": "Night_Tree.png",
@@ -2213,8 +2023,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Night_Grass.png",
+        "file": "Night_Grass.png",
         "kind": "image",
         "metadata": "",
         "name": "Night_Grass.png",
@@ -2222,8 +2031,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Fase_04.png",
+        "file": "Fase_04.png",
         "kind": "image",
         "metadata": "",
         "name": "Fase_04.png",
@@ -2231,8 +2039,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Fase_05.png",
+        "file": "Fase_05.png",
         "kind": "image",
         "metadata": "",
         "name": "Fase_05.png",
@@ -2240,8 +2047,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/sesi.png",
+        "file": "sesi.png",
         "kind": "image",
         "metadata": "",
         "name": "sesi.png",
@@ -2249,8 +2055,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Male Character 1_Walking Right_4.png",
+        "file": "assets/Male Character 1_Walking Right_1.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Male Character 1_Walking Right_1.png",
@@ -2258,8 +2063,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Female Character 9_Walking Right_4.png",
+        "file": "assets/Female Character 9_Walking Right_1.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Female Character 9_Walking Right_1.png",
@@ -2267,8 +2071,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Female Character 6_Walking Right_4.png",
+        "file": "assets/Female Character 6_Walking Right_1.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Female Character 6_Walking Right_1.png",
@@ -2276,8 +2079,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Male Character 5_Walking Right_4.png",
+        "file": "assets/Male Character 5_Walking Right_1.png",
         "kind": "image",
         "metadata": "",
         "name": "assets\\Male Character 5_Walking Right_1.png",
@@ -2285,8 +2087,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Tree.png",
+        "file": "Tree.png",
         "kind": "image",
         "metadata": "",
         "name": "Tree.png",
@@ -2294,8 +2095,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Ativo 53.png",
+        "file": "Ativo 53.png",
         "kind": "image",
         "metadata": "",
         "name": "Ativo 53.png",
@@ -2303,8 +2103,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Ativo 54.png",
+        "file": "Ativo 54.png",
         "kind": "image",
         "metadata": "",
         "name": "Ativo 54.png",
@@ -2312,8 +2111,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Flavia_idle.png",
+        "file": "Flavia_idle.png",
         "kind": "image",
         "metadata": "",
         "name": "Flavia_idle.png",
@@ -2321,8 +2119,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Flavia_side.png",
+        "file": "Flavia_side.png",
         "kind": "image",
         "metadata": "",
         "name": "Flavia_side.png",
@@ -2330,8 +2127,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Conclusao_Final.png",
+        "file": "Conclusao_Final.png",
         "kind": "image",
         "metadata": "",
         "name": "Conclusao_Final.png",
@@ -2339,8 +2135,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/Bg_modal_4_75.png",
+        "file": "Bg_modal_4_75.png",
         "kind": "image",
         "metadata": "",
         "name": "Bg_modal_4_75.png",
@@ -2348,8 +2143,7 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
-        "file": "assets/CreditosNEAD.png",
+        "file": "CreditosNEAD.png",
         "kind": "image",
         "metadata": "",
         "name": "CreditosNEAD.png",
@@ -4058,7 +3852,6 @@
                   ]
                 },
                 {
-                  "folded": true,
                   "name": "02",
                   "type": "structure",
                   "children": [
@@ -4082,7 +3875,7 @@
                           "folded": true,
                           "name": "C",
                           "type": "string",
-                          "value": "Explicar os recursos disponíveis e oferecer suporte técnico para as ferramentas tecnológicas"
+                          "value": "Explicar os recursos disponíveis e oferecer suporte no uso das ferramentas tecnológicas educacionais.​"
                         },
                         {
                           "folded": true,
@@ -4223,6 +4016,7 @@
                   ]
                 },
                 {
+                  "folded": true,
                   "name": "05",
                   "type": "structure",
                   "children": [
@@ -41825,7 +41619,7 @@
                       "folded": true,
                       "name": "respostaCorreta",
                       "type": "string",
-                      "value": "C"
+                      "value": "B"
                     }
                   ]
                 }
